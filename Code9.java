@@ -13,7 +13,7 @@ public class Code9 {
 	}
 
 }
-
+//
 class MusicalNotes {
 	//private static final String[] notes = { "A", "B", "C", "D", "E", "F", "G" };//G10 A0 B2 C3 D5 E7 F#9
 	private static final String[] notesAll = { "A", "A#", "B", "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#" };
